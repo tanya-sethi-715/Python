@@ -1,6 +1,9 @@
 This is my first Git Repository.
+<br>
 Author: Tanya Sethi
+<br>
 ONLINE CAR RENTAL PLATFORM.
+<br>
 DESCRIPTION
 
 Build an online car rental platform using Object-Oriented Programming in Python.
