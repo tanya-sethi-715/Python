@@ -4,6 +4,7 @@ Author: Tanya Sethi
 <br>
 ONLINE CAR RENTAL PLATFORM.
 <br>
+<br>
 DESCRIPTION
 
 Build an online car rental platform using Object-Oriented Programming in Python.
